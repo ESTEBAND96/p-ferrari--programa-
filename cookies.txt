@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.ferrari.com	TRUE	/	FALSE	1999999999	dtCookie	v_4_srv_1_sn_D57C083C2E88EB90FF2D8FC4E1D714C8_perc_100000_ol_0_mul_1_app-3A1b61021630676e31_1_rcs-3Acss_0
+
